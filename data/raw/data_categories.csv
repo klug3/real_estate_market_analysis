@@ -1,0 +1,15 @@
+category_id;category_name;subcategory_name
+11;Investments;Investments
+302;Rent;Rooms
+402;Rent;Plots
+502;Rent;Commercials
+101;Sale;Apartments
+201;Sale;Houses
+202;Rent;Houses
+702;Rent;Other
+401;Sale;Plots
+501;Sale;Commercials
+102;Rent;Apartments
+601;Sale;Commercials
+602;Rent;Commercials
+701;Sale;Other
