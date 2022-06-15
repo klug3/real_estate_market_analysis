@@ -15,11 +15,15 @@ py -m venv .venv
 
 python -m pip install --upgrade pip
 
+## Install packages one by one:
 python -m pip install pip-tools
 
 python -m pip install ipykernel
 
 python -m ipykernel install --user --name=.venv
+
+## OR isntall packeges all at once from requirements.txt file:
+python -m pip install -r /path/to/requirements.txt
 
 ## Remove virtual env from Jupyter Notebook:
 jupyter kernelspec list
