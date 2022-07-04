@@ -1,5 +1,5 @@
-# otodom_intern_assignment
-Job assignment for intern Data Analyst position at Otodom (OLX Group).
+# Feb-March 2021 vs Feb-March 2022 real estate analysis.
+Analysis of real estate market between February and March of 2021 and 2022.
 
 # Requirements:
 - MySQL server (https://dev.mysql.com/downloads/mysql/)
