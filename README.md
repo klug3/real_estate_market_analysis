@@ -1,4 +1,4 @@
-# Feb-March 2021 vs Feb-March 2022 real estate analysis.
+# Feb-March 2021 vs Feb-March 2022 real estate market analysis.
 Analysis of real estate market between February and March of 2021 and 2022.
 
 # Requirements:
